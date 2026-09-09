@@ -90,7 +90,7 @@ API Key
 
 ## 2.2 ติดตั้ง Falcon Log Collector บน Windows
 
-ดาวน์โหลด **Falcon Log Collector / LogScale Collector for Windows** แล้วติดตั้งบน Windows Server หรือ Windows EC2 ที่ต้องการส่ง Event Log
+ดาวน์โหลด **Falcon Log Collector / LogScale Collector for Windows** แล้วติดตั้งบนเครื่อง Windows ที่ต้องการส่ง Event Log
 
 ไฟล์ Configuration ที่ใช้ในการทดสอบ:
 
